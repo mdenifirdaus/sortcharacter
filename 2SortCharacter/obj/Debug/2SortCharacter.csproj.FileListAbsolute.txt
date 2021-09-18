@@ -1,0 +1,21 @@
+C:/Users/user/Desktop/Nawadata Solution/Test Logic v4/2. Sort Character/2SortCharacter/2SortCharacter/bin/Debug/2SortCharacter.exe.config
+C:/Users/user/Desktop/Nawadata Solution/Test Logic v4/2. Sort Character/2SortCharacter/2SortCharacter/bin/Debug/2SortCharacter.exe
+C:/Users/user/Desktop/Nawadata Solution/Test Logic v4/2. Sort Character/2SortCharacter/2SortCharacter/bin/Debug/2SortCharacter.pdb
+C:/Users/user/Desktop/Nawadata Solution/Test Logic v4/2. Sort Character/2SortCharacter/2SortCharacter/obj/Debug/2SortCharacter.csprojAssemblyReference.cache
+C:/Users/user/Desktop/Nawadata Solution/Test Logic v4/2. Sort Character/2SortCharacter/2SortCharacter/obj/Debug/2SortCharacter.csproj.CoreCompileInputs.cache
+C:/Users/user/Desktop/Nawadata Solution/Test Logic v4/2. Sort Character/2SortCharacter/2SortCharacter/obj/Debug/2SortCharacter.exe
+C:/Users/user/Desktop/Nawadata Solution/Test Logic v4/2. Sort Character/2SortCharacter/2SortCharacter/obj/Debug/2SortCharacter.pdb
+C:/Users/user/Desktop/Nawadata Solution/Test Logic v4/2. Sort Character/2SortCharacter/bin/Debug/2SortCharacter.exe.config
+C:/Users/user/Desktop/Nawadata Solution/Test Logic v4/2. Sort Character/2SortCharacter/bin/Debug/2SortCharacter.exe
+C:/Users/user/Desktop/Nawadata Solution/Test Logic v4/2. Sort Character/2SortCharacter/bin/Debug/2SortCharacter.pdb
+C:/Users/user/Desktop/Nawadata Solution/Test Logic v4/2. Sort Character/2SortCharacter/obj/Debug/2SortCharacter.csprojAssemblyReference.cache
+C:/Users/user/Desktop/Nawadata Solution/Test Logic v4/2. Sort Character/2SortCharacter/obj/Debug/2SortCharacter.csproj.CoreCompileInputs.cache
+C:/Users/user/Desktop/Nawadata Solution/Test Logic v4/2. Sort Character/2SortCharacter/obj/Debug/2SortCharacter.exe
+C:/Users/user/Desktop/Nawadata Solution/Test Logic v4/2. Sort Character/2SortCharacter/obj/Debug/2SortCharacter.pdb
+/Users/mac/Desktop/Nawadata/Muhamad Deni Firdaus_NET Developer/Source Code _ Test Logic v4/2. Sort Character/2SortCharacter/bin/Debug/2SortCharacter.exe.config
+/Users/mac/Desktop/Nawadata/Muhamad Deni Firdaus_NET Developer/Source Code _ Test Logic v4/2. Sort Character/2SortCharacter/bin/Debug/2SortCharacter.exe
+/Users/mac/Desktop/Nawadata/Muhamad Deni Firdaus_NET Developer/Source Code _ Test Logic v4/2. Sort Character/2SortCharacter/bin/Debug/2SortCharacter.pdb
+/Users/mac/Desktop/Nawadata/Muhamad Deni Firdaus_NET Developer/Source Code _ Test Logic v4/2. Sort Character/2SortCharacter/obj/Debug/2SortCharacter.csprojAssemblyReference.cache
+/Users/mac/Desktop/Nawadata/Muhamad Deni Firdaus_NET Developer/Source Code _ Test Logic v4/2. Sort Character/2SortCharacter/obj/Debug/2SortCharacter.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Nawadata/Muhamad Deni Firdaus_NET Developer/Source Code _ Test Logic v4/2. Sort Character/2SortCharacter/obj/Debug/2SortCharacter.exe
+/Users/mac/Desktop/Nawadata/Muhamad Deni Firdaus_NET Developer/Source Code _ Test Logic v4/2. Sort Character/2SortCharacter/obj/Debug/2SortCharacter.pdb
